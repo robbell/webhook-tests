@@ -1,7 +1,7 @@
 ---
-title: My Page 2
-permalink: /2010/01/README
+title: My Page
+permalink: /2010/01/test
 publishedOn: 2010-01-02
 ---
 
-Here is my page 2! Welcome README!
+Here is my page 2! Welcome
