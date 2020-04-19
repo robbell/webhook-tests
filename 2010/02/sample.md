@@ -5,6 +5,7 @@ publishedOn: 2020-02-15
 tags:
     - test
     - other2
+    - other3
 ---
 
 This is my real first post. Very exciting.
