@@ -5,6 +5,7 @@ publishedOn: 2010-01-02
 tags:
   - bla
   - other
+  - test
 ---
 
 Here is my page 2! Welcome
