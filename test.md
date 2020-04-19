@@ -6,6 +6,7 @@ tags:
   - bla
   - other
   - test
+  - test-2
 ---
 
 Here is my page 2! Welcome
