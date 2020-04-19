@@ -2,6 +2,9 @@
 title: Sample
 permalink: /2020/02/sample
 publishedOn: 2020-02-15
+tags:
+    - test
+    - other
 ---
 
 This is my real first post. Very exciting.
