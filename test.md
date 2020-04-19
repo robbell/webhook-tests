@@ -7,6 +7,7 @@ tags:
   - other
   - other2
   - test
+  - bla
   - test-2
 ---
 
