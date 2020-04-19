@@ -4,7 +4,7 @@ permalink: /2020/02/sample
 publishedOn: 2020-02-15
 tags:
     - test
-    - other
+    - other2
 ---
 
 This is my real first post. Very exciting.
