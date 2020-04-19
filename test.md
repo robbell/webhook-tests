@@ -5,6 +5,7 @@ publishedOn: 2010-01-02
 tags:
   - bla
   - other
+  - other2
   - test
   - test-2
 ---
