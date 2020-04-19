@@ -6,6 +6,7 @@ tags:
     - test
     - other2
     - other3
+    - other4
 ---
 
 This is my real first post. Very exciting.
