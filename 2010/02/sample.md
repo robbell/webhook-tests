@@ -7,9 +7,15 @@ publishedOn: 2020-02-15
 This is my real first post. Very exciting.
 
 Some other _styles_ to show off 
+    
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-Alice **smells**. Url [here](http://google.com).
+[^1]: This is the first footnote.
 
-* blas
-  * asdasd
-    * asdads
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
