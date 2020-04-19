@@ -2,6 +2,9 @@
 title: My Page
 permalink: /2010/01/test
 publishedOn: 2010-01-02
+tags:
+  - bla
+  - other
 ---
 
 Here is my page 2! Welcome
