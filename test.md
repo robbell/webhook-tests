@@ -1,5 +1,5 @@
 ---
-title: My Page
+title: Test Page
 permalink: /2010/01/test
 publishedOn: 2010-01-02
 tags:
