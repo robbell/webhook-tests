@@ -15,6 +15,8 @@ Here is my page 2! Welcome
 
 It's quite a good page
 
+[!EndSummary]
+
 [link here](http://google.com)
 
 bla bla
